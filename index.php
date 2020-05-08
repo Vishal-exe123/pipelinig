@@ -1,5 +1,6 @@
 <?php
 
-print ''[Dhello';
+print 'hello';
+print 'Developer'
 
 ?>
