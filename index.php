@@ -1,5 +1,5 @@
 <?php
 
-print ''[Dhello';
+print 'hello';
 
 ?>
